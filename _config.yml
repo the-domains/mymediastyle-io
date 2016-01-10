@@ -1,0 +1,28 @@
+name: MyMediaStyle.io
+favicon: null
+layout_spectrum: 0.2742344746366143
+typography_spectrum: 0.23728911066427827
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.7873774180188775
+  lightness: 0.6557660126127303
+  saturation: 0.9534224215894938
+  rhythmicContrast: 0.9336135860066861
+purpose: []
